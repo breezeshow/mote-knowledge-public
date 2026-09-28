@@ -1,0 +1,9 @@
+{
+  "name": "mote-knowledge",
+  "version": "0.4.0",
+  "description": "Mote Knowledge (public edition): what Mote is, how it sounds, and how it looks.",
+  "author": {
+    "name": "Mote Technologies",
+    "email": "support@mote.com"
+  }
+}

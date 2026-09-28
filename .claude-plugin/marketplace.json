@@ -1,0 +1,16 @@
+{
+  "name": "mote-knowledge-public",
+  "description": "Mote Knowledge (public edition)",
+  "owner": {
+    "name": "Mote Technologies",
+    "email": "support@mote.com"
+  },
+  "plugins": [
+    {
+      "name": "mote-knowledge",
+      "version": "0.4.0",
+      "source": "./plugins/mote-knowledge",
+      "category": "marketing"
+    }
+  ]
+}
