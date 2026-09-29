@@ -8,6 +8,7 @@ review-interval: 90d
 sources:
   - https://support.mote.com/article/97-who-do-you-share-my-data-with (canonical sub-processor list, updated 2026-09-16)
   - https://support.mote.com/article/655-what-ai-services-does-mote-use-and-who-provides-them (AI services and providers, customer-facing)
+  - https://support.mote.com/article/662-do-motes-ai-providers-train-on-or-keep-your-data (training and retention by provider, published 2026-09-16)
   - https://www.mote.com/privacy
 ---
 
@@ -100,9 +101,13 @@ not the model.
 Point customers to [article 655](https://support.mote.com/article/655-what-ai-services-does-mote-use-and-who-provides-them), which covers this ground in
 customer-facing language and links back to article 97.
 
-Do **not** assert that providers do or do not train on Mote data. That is a
-contractual question, is not answerable from the code, and is the most common
-follow-up. Route it to support@mote.com.
+**Training on Mote data.** Mote's public position is that none of its AI
+providers train their models on content created in Mote.
+[Article 662](https://support.mote.com/article/662-do-motes-ai-providers-train-on-or-keep-your-data) states this provider by provider, citing each provider's
+own public documentation. When asked, give that answer and link article 662;
+don't restate per-provider detail from memory, because the article is kept
+current and a paraphrase drifts. For contractual detail about a named provider,
+including DPAs, route to support@mote.com.
 
 ## Related
 
