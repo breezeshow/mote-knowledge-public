@@ -3,7 +3,7 @@ title: Terminology
 summary: Mote's terminology rules. Capitalization, feature names, inclusive language, scale figures, Tier framing, and the language conventions that keep copy consistent across channels.
 type: facts
 domain: brand
-last-reviewed: 2026-08-05
+last-reviewed: 2026-09-29
 review-interval: 180d
 sources:
   - Webflow CMS, What's New: 2026-08-03 batch (Mote Vocab naming, "accessibilize")
@@ -41,11 +41,10 @@ Two rules follow:
 
 - **Always write "Mote Sidebar" in full.** A bare "Sidebar" or a bare lowercase
   "sidebar" leaves the reader guessing which of the two you mean.
-- **Never call it a toolbar.** "Toolbar" is Mote's word for Read&Write's heavier
-  interface, in [`positioning.md`](./positioning.md) and
-  `../market/competitors/read-and-write.md`.
-  Using it for Mote's own panel gives away that comparison. When a generic noun is
-  needed, use **panel**, which is also what Chrome's own platform calls it.
+- **Never call it a toolbar.** Mote reserves "toolbar" for describing Read&Write's
+  heavier interface; using it for Mote's own panel blurs that contrast. When a
+  generic noun is needed, use **panel**, which is also what Chrome's own platform
+  calls it.
 
 ## Spelling
 
@@ -191,6 +190,12 @@ student who needs them more never has to be singled out to get them.
 | *"Mote's design point is universal access; the same tools are documented in IEPs and 504s for students who formally need them"* | *"Common 504 accommodations Mote can provide: Read Aloud, Speech to Text"* (implies the tools are gated to some) |
 | *"Students who need more intensive support use the same tools, more deeply"* | *"Tier 2 students get Read Aloud + Screen Mask; Tier 3 adds Speech to Text"* (implies different tiers get different tools) |
 | *"Mote tools work across all three MTSS tiers, Tier 1 universal, Tier 2 used in targeted small-group support, Tier 3 used in intensive individualised support"* | *"Mote provides Tier 2 and Tier 3 interventions for students who need them"* (drops the Tier 1 universal frame) |
+
+The framing comes from Mote's own published UDL/MTSS position:
+
+> *"Reserving tools for Tier 2 students. Text-to-speech and
+> speech-to-text belong in Tier 1 for everyone, not as labeled
+> accommodations for some. UDL principles do not turn off at Tier 1."*
 
 ## What Mote is NOT (terminology reminder)
 

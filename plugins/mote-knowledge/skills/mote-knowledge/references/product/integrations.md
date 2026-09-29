@@ -24,6 +24,7 @@ than as a separate destination:
 - **PDFs:** handled by [Mote PDF](./mote-pdf.md); a dedicated **Open in Mote PDF**
   app in Google Drive opens files straight in, and Google Drive files are reachable
   from the Mote PDF web app; the Mote Sidebar tools also work on accessible PDFs directly.
+- **Apple devices:** [Mote for iOS](./mote-ios.md) brings Read Aloud, Translation, and
   the rest to iPhone, iPad, and Mac; share any webpage or document to Mote from
   Safari or any app, with iCloud sync across devices.
 - **Curriculum and e-reader platforms:** Read Aloud works in **Sora** and **Epic**,

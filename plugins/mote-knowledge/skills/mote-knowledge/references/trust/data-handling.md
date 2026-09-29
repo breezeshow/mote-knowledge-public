@@ -3,7 +3,7 @@ title: Data Handling
 summary: How Mote uses personal information (and pointedly does not) including the no-AI-training-on-student-data commitment.
 type: facts
 domain: trust
-last-reviewed: 2026-05-20
+last-reviewed: 2026-09-29
 review-interval: 180d
 sources:
   - https://www.mote.com/privacy
@@ -39,6 +39,11 @@ as instruments for collecting on them.
 - **Data matching or profiling.**
 - **Training or evaluating AI models on student-generated content or
   interactions.**
+
+That last commitment is explicit (as stated in Mote's RFP responses): *"Mote does not use
+student-generated content or interactions to train or evaluate AI models. Mote's
+revenue comes exclusively from subscriptions, not from data monetization or
+advertising."*
 
 Mote's AI surface is **bounded**: text-to-speech, speech-to-text, translation,
 word prediction, writing review, and the picture-dictionary image generator each

@@ -113,6 +113,7 @@ dedicated files.
 - No **exclamation marks in the first sentence** of any copy.
 - Never **proactively recommend or lead with Mote Translator**: an active
   product, describe only when explicitly asked.
+- Never discuss **discontinued Mote products**.
 - Never position Mote as a **"voice / audio / feedback company"**; the
   Chrome Extension is the product.
 - Never **fabricate compliance claims**; only assert what Mote actually
@@ -153,6 +154,7 @@ all of them.
 | `overview.md` | Need the product suite at a glance. |
 | `chrome-extension.md` | Anything about the core product. |
 | `mote-pdf.md` | Anything about Mote on PDFs. |
+| `mote-ios.md` | Anything about Mote for iOS (iPhone, iPad, Mac). |
 | `translator.md` | Only when explicitly asked about Mote Translator. |
 | `platform.md` | District admin, deployment, analytics (internal product). |
 | `mote-vocab.md` | Vocabulary and study activities (Mote Vocab / My Vocab). |

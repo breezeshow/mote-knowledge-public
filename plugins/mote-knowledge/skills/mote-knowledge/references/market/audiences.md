@@ -3,7 +3,7 @@ title: Audiences
 summary: Who Mote serves (the students it is built for, the teachers who champion it, the districts that buy it) and how a deal actually forms.
 type: narrative
 domain: market
-last-reviewed: 2026-08-05
+last-reviewed: 2026-09-29
 review-interval: 180d
 sources:
   - company/mission-vision-values.md
@@ -39,6 +39,20 @@ mistakes, Text Prediction, and the [Dictionary](../product/features/dictionary.m
 helps: [Webpage Translation](../product/features/webpage-translation.md) (which can
 also read the translated text aloud), the Dictionary's native-language support, and
 Read Aloud to connect written and spoken English.
+
+## Teachers
+
+Mote gives a teacher a realistic way to include every
+student: because the support sits in the student's own hands, the teacher does not
+have to differentiate every task by hand, or wait on scarce specialist staff.
+
+## Administrators and districts: the buyer
+
+Districts are Mote's buyer. A district leader weighs equitable access
+at scale, alignment to [UDL](../education/udl.md) and [MTSS](../education/mtss.md),
+privacy and compliance (FERPA, COPPA, GDPR), usage reporting, simple deployment, and
+an affordable per-seat cost. [Mote Platform](../product/platform.md) is built
+for exactly that.
 
 ## How to use this file
 

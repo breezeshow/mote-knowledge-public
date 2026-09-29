@@ -10,6 +10,7 @@ review-interval: 180d
 - [overview.md](./overview.md): the seven-product suite at a glance.
 - [chrome-extension.md](./chrome-extension.md): the Mote Chrome Extension (Chrome extension).
 - [mote-pdf.md](./mote-pdf.md): Mote PDF, accessible PDF hosting.
+- [mote-ios.md](./mote-ios.md): Mote for iOS, the native iPhone / iPad / Mac app.
 - [platform.md](./platform.md): Mote Platform, admin for schools and districts.
 - [mote-vocab.md](./mote-vocab.md): Mote Vocab, vocabulary and study activities.
 - [translator.md](./translator.md): Mote Translator, live lesson translation.

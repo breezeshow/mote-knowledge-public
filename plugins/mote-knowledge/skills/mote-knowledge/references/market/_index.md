@@ -7,6 +7,6 @@ review-interval: 180d
 
 # Market
 
-- [audiences.md](./audiences.md): who Mote serves, and the two routes to adoption.
+- [audiences.md](./audiences.md): who Mote serves, and what each audience needs.
 - [problems.md](./problems.md): the problems Mote solves, for students, teachers, and districts.
 - [use-cases.md](./use-cases.md): concrete scenarios of Mote in use.

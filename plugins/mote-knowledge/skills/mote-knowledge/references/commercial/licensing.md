@@ -3,7 +3,7 @@ title: Licensing
 summary: 'How Mote licensing works: seats, admin, deployment, and SSO.'
 type: narrative
 domain: commercial
-last-reviewed: 2026-08-05
+last-reviewed: 2026-09-29
 review-interval: 180d
 sources:
   - https://www.mote.com/pricing
@@ -49,6 +49,7 @@ Three ways:
 
 - **Individual:** flat annual subscription.
 - **Multi-Seat (schools):** quote-based.
+- **Custom (districts):** quote-based, per-seat; rates depend on seat count.
 
 The canonical price points are in [pricing-facts.md](./pricing-facts.md); the
 live source is [mote.com/pricing](https://www.mote.com/pricing).

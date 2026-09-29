@@ -3,7 +3,7 @@ title: Compliance
 summary: 'Mote''s regulatory compliance and certification posture: education-privacy law, infrastructure certifications, DPA, and jurisdiction notes.'
 type: facts
 domain: trust
-last-reviewed: 2026-05-20
+last-reviewed: 2026-09-29
 review-interval: 180d
 sources:
   - https://www.mote.com/privacy
@@ -22,6 +22,7 @@ right set; never list everything in short-form copy.
 | Surface | Default safe minimum | Add when relevant |
 |---|---|---|
 | **Short-form** (one-pager, email, social, sales follow-up, 250-400 word brief) | **FERPA, COPPA** | **GDPR** for European audiences; **Australian Privacy Act** for Australian audiences |
+| **Long-form** (RFPs, district decks, security questionnaires) | FERPA, COPPA, GDPR, DPF | AWS hosting certifications (ISO 27001, SOC 2 Type 2, PCI DSS, FISMA; always stated as AWS's), SDPC, Student Privacy Pledge |
 | **State-specific** (Maryland, Texas, California, etc.) | Default minimum + the relevant state statute | State Student Data Privacy Act if named |
 
 **Rule of thumb**: COPPA and FERPA are *always* the headline. GDPR joins
@@ -48,11 +49,17 @@ State-specific (US):
 - **Maryland COMAR Title 13A** and the **Maryland Student Data Privacy Act:**
   compliant.
 
+## Infrastructure certifications (via AWS)
+
+Mote is hosted on Amazon Web Services, whose infrastructure is certified to
+ISO 27001, SOC 2 Type 2, PCI DSS Level 1 and FISMA. These are AWS
+certifications; AWS's SOC 2 report is available on request.
+
 ## Data Processing Agreement
 
 A GDPR-compliant DPA template is available, referenced on mote.com/privacy for
 UK schools and downloadable from there. For other jurisdictions Mote can work
-with the institution to execute an appropriate DPA.
+with the institution to execute an appropriate DPA. Contact `support@mote.com`.
 
 ## Jurisdiction notes
 

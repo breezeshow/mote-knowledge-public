@@ -3,7 +3,7 @@ title: Voice and tone
 summary: Mote sounds like a smart colleague. Short, plain, substantive, focused on what the reader actually needs. Includes universal ALWAYS/NEVER rules and the banned-phrase list every channel inherits.
 type: narrative
 domain: brand
-last-reviewed: 2026-08-05
+last-reviewed: 2026-09-29
 review-interval: 180d
 ---
 
@@ -100,6 +100,7 @@ These don't belong in any channel:
   supported Mote product. Mote leads with the Chrome Extension and the
   actively-promoted features; Mote Translator is *described accurately when a
   user explicitly asks*, never surfaced unprompted.
+- **Never discuss discontinued Mote products.**
 - **Never claim Mote replaces teachers**; it augments their work.
 - **Never use fear-based messaging** about students falling behind.
 - **Never use preachy accessibility messaging**; treat accessibility as

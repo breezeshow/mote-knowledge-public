@@ -3,7 +3,7 @@ title: Case Studies
 summary: 'Mote''s published case studies: schools and districts that have rolled out Mote and what they got out of it.'
 type: facts
 domain: evidence
-last-reviewed: 2026-05-20
+last-reviewed: 2026-09-29
 review-interval: 90d
 sources:
   - https://www.mote.com/case-studies
@@ -39,3 +39,7 @@ case study (language access, feedback policy, district rollout) and link to the
 live page. For a blog post, pull a specific narrative from one and rewrite for
 the post's purpose.
 
+> Note: Several case studies pre-date Mote's growth into the broader accessibility
+> platform and center on voice feedback, now one part of the Chrome Extension.
+> The **multilingual / language set** (Greece, New Canaan, Tri-County, Bialik)
+> best reflects what Mote does today.

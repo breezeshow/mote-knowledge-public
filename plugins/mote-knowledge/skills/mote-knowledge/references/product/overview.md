@@ -25,6 +25,7 @@ six products, with one more that is real but internal.
 - **[Mote PDF](./mote-pdf.md):** hosts PDFs and makes them accessible, runs OCR to
   accessibilize scanned files, and adds PDF mark-up on top of the Mote Sidebar
   tools.
+- **[Mote for iOS](./mote-ios.md):** Mote's native app for iPhone, iPad, and Mac: a
   personal reading and writing library.
 - **[Mote Vocab](./mote-vocab.md):** vocabulary and study activities, labelled
   **My Vocab** on the customer's dashboard.

@@ -3,7 +3,7 @@ title: Onboarding & Learning
 summary: How new users get started with Mote, and where teachers learn to use it well.
 type: facts
 domain: product
-last-reviewed: 2026-08-05
+last-reviewed: 2026-09-29
 review-interval: 180d
 ---
 
@@ -22,6 +22,8 @@ teachers learn to use it well:
   list. Where Mote Explorer covers the student toolkit, this covers running a class.
 - **Courses:** Mote runs courses at `app.mote.com/courses`, predominantly for
   teachers.
+- **PD sessions:** Mote offers professional-development sessions for institutions,
+  bookable through `support@mote.com`.
 - **Video guides:** the "Getting Started with Mote" YouTube playlist:
   `youtube.com/playlist?list=PL28_-psho_6SYzuiRKaUQ8HuAjzQCjlxw`.
 
@@ -30,3 +32,5 @@ it. Mote Explorer takes a new user (student or teacher) through every feature, a
 the courses, PD sessions, and videos take teachers from "installed" to genuinely
 confident.
 
+**Where to find it.** Mote Explorer runs inside Mote itself; courses at
+`app.mote.com/courses`; PD sessions via `support@mote.com`; video guides on YouTube.
