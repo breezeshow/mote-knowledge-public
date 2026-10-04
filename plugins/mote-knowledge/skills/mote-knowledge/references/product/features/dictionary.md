@@ -31,3 +31,4 @@ in the Mote Sidebar, no tab-switching.
 
 **Good to know** *(surface when relevant).* The Dictionary also works inside
 accessible PDFs viewed in Google Drive and other web-based PDF viewers.
+Dictionary lookups have native support for English, French and Spanish words only.
