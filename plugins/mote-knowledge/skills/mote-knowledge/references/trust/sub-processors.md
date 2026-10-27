@@ -3,10 +3,10 @@ title: Sub-Processors
 summary: The third parties Mote uses to deliver the service, including every AI provider and the feature each one powers; mirrors support.mote.com articles 97 (sub-processors) and 655 (AI providers).
 type: facts
 domain: trust
-last-reviewed: 2026-09-29
+last-reviewed: 2026-10-27
 review-interval: 90d
 sources:
-  - https://support.mote.com/article/97-who-do-you-share-my-data-with (canonical sub-processor list, updated 2026-09-16)
+  - https://support.mote.com/article/97-who-do-you-share-my-data-with (canonical sub-processor list, updated 2026-10-02)
   - https://support.mote.com/article/655-what-ai-services-does-mote-use-and-who-provides-them (AI services and providers, customer-facing)
   - https://support.mote.com/article/662-do-motes-ai-providers-train-on-or-keep-your-data (training and retention by provider, published 2026-09-16)
   - https://www.mote.com/privacy
@@ -24,7 +24,7 @@ externally without checking it is still listed there.
 
 ## Named sub-processors
 
-Mirrors article 97 as updated 2026-09-16 (24 providers).
+Mirrors article 97 as updated 2026-10-02 (25 providers).
 
 | Sub-processor | Purpose |
 |---|---|
@@ -33,6 +33,7 @@ Mirrors article 97 as updated 2026-09-16 (24 providers).
 | **Microsoft** | Audio transcription, speech synthesis, language detection, cloud infrastructure and data analytics; hosts language models reached through OpenRouter |
 | **Deepgram** | Voice to text transcription |
 | **AssemblyAI** | Voice to text transcription |
+| **Soniox** | Real-time voice to text transcription and translation |
 | **ElevenLabs** | Speech synthesis for selected voices |
 | **OpenRouter** | Routes requests to language model providers for text prediction, dictionary, vocabulary and writing review features |
 | **OpenAI** | Language models for text prediction, dictionary and vocabulary features, and image text recognition |
@@ -47,7 +48,7 @@ Mirrors article 97 as updated 2026-09-16 (24 providers).
 | **Zapier** | Sales and operations automation |
 | **PostHog** | Website and extension usage analytics |
 | **Google Analytics** | Website and app usage analytics |
-| **Supabase** | Data analytics, anonymized data only |
+| **Supabase** | Data analytics, anonymized data only; real-time delivery of live Mote Translator captions to students’ devices |
 | **Datadog** | Outage and failure tracking |
 | **Sentry** | Outage and failure tracking |
 | **Airtable** | Storing and reviewing user survey data |
@@ -69,9 +70,9 @@ does not support the requested language.
 
 | Service | Providers |
 |---|---|
-| Speech to text | Deepgram (primary), AssemblyAI, Microsoft Azure, Google Cloud |
+| Speech to text | Deepgram (primary), AssemblyAI, Soniox, Microsoft Azure, Google Cloud |
 | Text to speech | Microsoft Azure (primary, and the source of Mote's voice catalog), Google Cloud, Amazon Web Services, ElevenLabs |
-| Translation | Google Cloud |
+| Translation | Google Cloud, Soniox (live speech) |
 
 ### Generative AI features
 
