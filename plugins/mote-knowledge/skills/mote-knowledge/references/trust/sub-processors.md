@@ -3,10 +3,10 @@ title: Sub-Processors
 summary: The third parties Mote uses to deliver the service, including every AI provider and the feature each one powers; mirrors support.mote.com articles 97 (sub-processors) and 655 (AI providers).
 type: facts
 domain: trust
-last-reviewed: 2026-10-27
+last-reviewed: 2026-10-30
 review-interval: 90d
 sources:
-  - https://support.mote.com/article/97-who-do-you-share-my-data-with (canonical sub-processor list, updated 2026-10-02)
+  - https://support.mote.com/article/97-who-do-you-share-my-data-with (canonical sub-processor list, updated 2026-10-30)
   - https://support.mote.com/article/655-what-ai-services-does-mote-use-and-who-provides-them (AI services and providers, customer-facing)
   - https://support.mote.com/article/662-do-motes-ai-providers-train-on-or-keep-your-data (training and retention by provider, published 2026-09-16)
   - https://www.mote.com/privacy
@@ -24,7 +24,7 @@ externally without checking it is still listed there.
 
 ## Named sub-processors
 
-Mirrors article 97 as updated 2026-10-02 (25 providers).
+Mirrors article 97 as updated 2026-10-30 (25 providers).
 
 | Sub-processor | Purpose |
 |---|---|
@@ -33,7 +33,7 @@ Mirrors article 97 as updated 2026-10-02 (25 providers).
 | **Microsoft** | Audio transcription, speech synthesis, language detection, cloud infrastructure and data analytics; hosts language models reached through OpenRouter |
 | **Deepgram** | Voice to text transcription |
 | **AssemblyAI** | Voice to text transcription |
-| **Soniox** | Real-time voice to text transcription and translation |
+| **Soniox** | Real-time voice to text transcription and translation for Mote Translator and voice typing |
 | **ElevenLabs** | Speech synthesis for selected voices |
 | **OpenRouter** | Routes requests to language model providers for text prediction, dictionary, vocabulary and writing review features |
 | **OpenAI** | Language models for text prediction, dictionary and vocabulary features, and image text recognition |
