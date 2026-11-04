@@ -3,7 +3,7 @@ title: Voice and tone
 summary: Mote sounds like a smart colleague. Short, plain, substantive, focused on what the reader actually needs. Includes universal ALWAYS/NEVER rules and the banned-phrase list every channel inherits.
 type: narrative
 domain: brand
-last-reviewed: 2026-09-29
+last-reviewed: 2026-11-04
 review-interval: 180d
 ---
 
@@ -107,6 +107,18 @@ These don't belong in any channel:
   foundational, not a selling point.
 - **Never fabricate compliance claims**; only assert certifications
   Mote actually holds.
+
+## Story pages and fact pages
+
+- **Story pages** (the homepage and pages one or two clicks from it) persuade.
+- **Fact pages** (pricing, plans, deployment, FAQs) state numbers and names
+  flatly, so AI assistants can quote them. Put the facts in plain HTML text, not
+  only in images or scripts.
+
+## Talking about Free
+
+"Try Mote free" is fine for the trial. Never "Mote is free", "free for teachers"
+or "free for educators", and never lead with the Free plan.
 
 ## Content defaults
 

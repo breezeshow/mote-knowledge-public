@@ -3,7 +3,7 @@ title: Mote Chrome Extension
 summary: 'Mote''s core product: the Chrome extension that opens the Mote Sidebar for students, and carries the Google Workspace integrations teachers use to make lessons accessible.'
 type: facts
 domain: product
-last-reviewed: 2026-08-26
+last-reviewed: 2026-11-04
 review-interval: 180d
 sources:
   - https://www.mote.com/products/chrome-extension (reviewed 2026-08-26)
@@ -49,6 +49,10 @@ the mode selector at the top of the panel.
   like the other three. Instead of offering a toolset, it strips the page back to
   its core content. See [Focus Mode](./features/focus-mode.md).
 
+**Sidebar Combos** (September 2026) let a student use up to 3 tools at once, for
+example Read Aloud with the Screen Mask and Dictionary. The keyboard shortcut
+**Alt+Shift+M** opens the Mote Sidebar.
+
 Some tools also belong to other products and are documented there: **My Content**
 opens the content library, which lives with [Mote Platform](./platform.md).
 
@@ -78,7 +82,14 @@ material accessible without rebuilding it:
 | Google Classroom | Spoken instructions recorded where students collect their work |
 | Any webpage | Every Mote Sidebar tool works on any page students visit |
 | PDFs | Click **Open with Mote** on any PDF to use the full toolkit, powered by [Mote PDF](./mote-pdf.md) |
-| Reading apps | Read Aloud works in **Sora** and **Epic**, so students keep the same reading accommodations there |
+| Google Sheets, Drive and Gmail | The Mote Sidebar works there too; voice recording in Gmail |
+| Canvas | For teachers: voice feedback in SpeedGrader |
+| Reading apps and eBooks | Read Aloud works in **Sora**, **Epic** and **McGraw Hill eBooks**, so students keep the same reading accommodations there |
+| Presenting Google Slides | The **Slideshow** button keeps Read Aloud and the Dictionary available in presenting mode |
+
+**Not supported:** Microsoft Edge (Mote doesn't work in Edge today), Safari, and
+Android. Don't claim Mote works in lockdown browsers other than Google Forms
+Locked Mode; for locked-down exams point to [Mote for Assessments](./platform.md#mote-for-assessments).
 
 ## Voice messaging and audio
 
@@ -87,8 +98,9 @@ Chrome Extension rather than a separate product (they were previously grouped as
 "Mote Classic", a name that is retired):
 
 - **[Mote Feedback Workflow](./features/feedback-workflow.md):** voice feedback in
-  Google Docs, Classroom, and Canvas, with a re-usable comment bank (Motebook),
-  two-way Loops, and engagement tracking.
+  Google Docs, Classroom, and Canvas, with a re-usable comment bank (Motebook)
+  and engagement tracking. (Mote Loops, the two-way reply feature, was retired
+  in July 2026.)
 - **[Embedded Voice Recorder](./features/embedded-voice-recorder.md):** Mote's
   recorder inside Google Workspace, Gmail, and other apps.
 - **[Online Audio Recorder](./features/online-audio-recorder.md):** a

@@ -3,7 +3,7 @@ title: Terminology
 summary: Mote's terminology rules. Capitalization, feature names, inclusive language, scale figures, Tier framing, and the language conventions that keep copy consistent across channels.
 type: facts
 domain: brand
-last-reviewed: 2026-09-29
+last-reviewed: 2026-11-04
 review-interval: 180d
 sources:
   - Webflow CMS, What's New: 2026-08-03 batch (Mote Vocab naming, "accessibilize")
@@ -27,6 +27,20 @@ sources:
 | Live speech product (active, but don't lead with) | **Mote Translator** | MoteTranslator, moteTranslator, Mote-Translator |
 | Vocabulary & study product | **Mote Vocab** | Mote Mastery (old name), moteMastery, Mastery, Vocabulary |
 | Vocabulary product (what the user sees) | **My Vocab** *(the dashboard page label; the product is Mote Vocab)* | myVocab, my vocab |
+| Courses and certification | **Mote Academy** *(courses at app.mote.com/courses, "Training & Certification" in the dashboard)*; **Mote Certified Educator** *(after 3 courses)* | Mote courses (as a name), Mote University |
+| Locked-down exam app | **Mote for Assessments** *(a separate kiosk app)* | Mote kiosk, Mote Lockdown |
+| Retired feature names | *(don't use)* **Mote Loops** and **Totes** were retired on 2026-07-21; Hypermotes and Sticky motes are internal or legacy names | Loops, two-way Loops, Totes |
+| Old product spellings still in some product copy | **Mote Sidebar**, **Mote PDF**, **Mote Writing Review** | moteSidebar, MotePDF, MoteWriter |
+
+### Plan names (exactly as the pricing page shows them)
+
+| Plan | Notes |
+|---|---|
+| **Free** | Never lead with it; never call Mote "free" |
+| **Unlimited** | One user. Customers call it "premium"; use that once in an FAQ, never as a name |
+| **Student or staff groups** | The card under the **Multi-seat** tab. Not "Mote Student or Staff Groups" |
+| **School building** | One building, up to 1,000 staff and students |
+| **District or multi-site** | Not "Mote District or Multi-site", not "Custom" |
 
 ### Chrome Extension and Mote Sidebar
 
@@ -98,7 +112,10 @@ applies across all channels.
 
 ### English Learners
 
-- **Primary term: English Learners.** Write it in full.
+- **Primary term: English Learners.** Write it in full, in body copy everywhere.
+- **State terms as synonyms only.** ELL, ESL, ENL, MLL and emergent bilingual go
+  only in one synonyms line on the English Learners page, FAQs and meta
+  descriptions, so searches and AI answers match. See [language.md](./language.md).
 - **ELL / ELLs is retired.** It was the primary term until 2026-08-05; do not
   use it in new copy, and do not expand English Learners to "English Language
   Learners".
@@ -207,18 +224,33 @@ The framing comes from Mote's own published UDL/MTSS position:
 
 ## Products with "don't lead with" guidance
 
+Mote for iOS is not in this list but has its own rule: when asked "does it work on
+iPads?", don't promise the same tools as on Chromebooks (see
+[`../product/mote-ios.md`](../product/mote-ios.md)).
+
 Two Mote products are **active and supported**, but should not be
 proactively surfaced in marketing, sales, or outward-facing copy:
 
 - **Mote Classic**: retired product name. Its voice messaging and audio now sit inside the Mote Chrome Extension.
   Active. Described accurately when a user explicitly asks.
 - **Mote Translator**: live translation product. Active. Described
-  accurately when a user explicitly asks.
+  accurately when a user explicitly asks. It has its own site
+  (translator.mote.com) and is sold separately as hour packs. The name is
+  **Mote Translator**; don't call it "Class Translator".
 
 When discussing the Mote product line, lead with the Chrome Extension and the
 actively-promoted features. Mote Translator remains an accurate part
 of the line; it just isn't the recommendation. The accurate
 description lives in [`../product/translator.md`](../product/translator.md).
+
+## Metrics with "avoid promoting" guidance
+
+- **Motes created** (the number of motes a student or class has made) is a real
+  Class Dashboard metric and stays documented as a fact in
+  [`../product/platform.md`](../product/platform.md), but **avoid promoting it**
+  in customer-facing copy (product UI, FAQs, marketing, sales) unless there is no
+  way around it. Lead with the usage that shows impact instead: Read Aloud
+  minutes, translations, and feature use.
 
 ## How to use this file
 

@@ -3,7 +3,7 @@ title: Compliance
 summary: 'Mote''s regulatory compliance and certification posture: education-privacy law, infrastructure certifications, DPA, and jurisdiction notes.'
 type: facts
 domain: trust
-last-reviewed: 2026-09-29
+last-reviewed: 2026-11-04
 review-interval: 180d
 sources:
   - https://www.mote.com/privacy
@@ -77,3 +77,12 @@ with the institution to execute an appropriate DPA. Contact `support@mote.com`.
 - [privacy.md](./privacy.md): what's collected, retention, rights.
 - [security.md](./security.md): infrastructure and breach response.
 - [sub-processors.md](./sub-processors.md): third parties Mote uses.
+
+## Claims not to make
+
+- Don't claim a **SOC 2 report for Mote itself**; only AWS holds one (see above).
+- Don't claim **WCAG 2.1 AA conformance** until Mote's accessibility report is
+  published.
+- **FERPA and COPPA always lead** on every surface. GDPR, the EU-U.S. Data
+  Privacy Framework (UK Extension) and the Australian Privacy Act are for European
+  and Australian audiences and RFPs.

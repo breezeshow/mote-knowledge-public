@@ -1,7 +1,7 @@
 ---
 title: Product Features index
 summary: Index of Mote's feature files, grouped by product. Sub-features are covered inside their parent feature's file.
-last-reviewed: 2026-08-05
+last-reviewed: 2026-11-04
 review-interval: 180d
 ---
 
@@ -28,7 +28,7 @@ listed separately.
 - Also uses [Text Prediction](./text-prediction.md) and [Speech to Text](./speech-to-text.md).
 
 ## Voice messaging and audio (part of the Chrome Extension)
-- [Mote Feedback Workflow](./feedback-workflow.md): voice feedback in Docs, Classroom, and Canvas, with Loops, Motebook, and engagement tracking.
+- [Mote Feedback Workflow](./feedback-workflow.md): voice feedback in Docs, Classroom, and Canvas, with Motebook and engagement tracking.
 - [Embedded Voice Recorder](./embedded-voice-recorder.md): Mote's recorder inside Google Workspace, Gmail, and education apps.
 - [Online Audio Recorder](./online-audio-recorder.md): browser-based recorder, no extension needed.
 - [Mote Pages](./mote-pages.md): shareable, automatically transcribed audio pages.

@@ -3,7 +3,7 @@ title: Read Aloud
 summary: 'Mote''s text-to-speech: natural human-like voices that read any webpage, document, PDF, image, or maths aloud, with word-by-word highlighting.'
 type: facts
 domain: product/features
-last-reviewed: 2026-08-05
+last-reviewed: 2026-11-04
 review-interval: 180d
 ---
 
@@ -24,6 +24,15 @@ also simply highlight text on the page to hear just that part.
 In Google Docs, **Play Page starts from the paragraph the cursor is in** rather
 than returning to the top of the document. Click into the part you want to hear
 and playback begins there.
+
+The sentence being read is highlighted, and the highlight moves one sentence at a
+time (August 2026). Read Aloud also works while presenting Google Slides: the
+**Slideshow** button keeps Read Aloud and the Dictionary available in presenting
+mode (October 2026).
+
+**Read Aloud in Google Forms** works in quizzes, including in **Locked Mode**. A
+teacher with a subscription can turn it on for a Form, and every student can use
+it there without their own subscription.
 
 **Why it exists.** Students can only learn from text they can access, and many
 can't decode it fluently. Read Aloud removes that barrier, and does it better than

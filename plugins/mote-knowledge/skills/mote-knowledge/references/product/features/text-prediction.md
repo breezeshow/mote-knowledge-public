@@ -3,7 +3,7 @@ title: Text Prediction
 summary: Real-time, context-aware word suggestions as students type, in English, French, and Spanish.
 type: facts
 domain: product/features
-last-reviewed: 2026-08-05
+last-reviewed: 2026-11-04
 review-interval: 180d
 ---
 
@@ -27,6 +27,13 @@ suggested word by clicking it or typing its number.
 **Tap mode** exists for students who find a list travelling across the page as
 they write distracting: suggestions stay hidden until asked for, so support is
 available without being present.
+
+**Hear a suggestion first.** Hover over (or tab to) a suggestion to hear it read
+aloud before choosing it (September 2026).
+
+**Smart punctuation.** Choosing "." or "?" closes the gap before it, and French
+spacing rules are followed. It works everywhere Text Prediction does, including
+Mote PDF and Gmail (August 2026).
 
 **Why it exists.** Writing is where many students stall: on spelling, word-finding,
 or the sheer motor effort of typing. Text Prediction keeps them moving. Mote's

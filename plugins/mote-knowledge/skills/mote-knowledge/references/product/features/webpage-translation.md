@@ -3,7 +3,7 @@ title: Webpage Translation
 summary: Translate text on any webpage into 60+ languages; read it or hear it read aloud.
 type: facts
 domain: product/features
-last-reviewed: 2026-08-05
+last-reviewed: 2026-11-04
 review-interval: 180d
 ---
 
@@ -26,5 +26,9 @@ happens to support) into 60+ languages, and a student can both read the translat
 and hear it. It works straight from the Mote Sidebar, so students reach for it
 independently, and it lets families engage with school content in their own
 language too.
+
+**Good to know.** In the product the tool is called **Translation** (the button is
+"Translate"). It translates the text a student highlights or selects; there is
+**no whole-page translation**, so don't claim one.
 
 **Where to find it.** The [Mote Chrome Extension](../chrome-extension.md) (Chrome extension).

@@ -3,7 +3,7 @@ title: Onboarding & Learning
 summary: How new users get started with Mote, and where teachers learn to use it well.
 type: facts
 domain: product
-last-reviewed: 2026-09-29
+last-reviewed: 2026-11-04
 review-interval: 180d
 ---
 
@@ -20,8 +20,12 @@ teachers learn to use it well:
   each step in place across four lessons: creating a class, reading the **Class
   Dashboard**, setting **Student Feature Access**, and building a **Mote Vocab**
   list. Where Mote Explorer covers the student toolkit, this covers running a class.
-- **Courses:** Mote runs courses at `app.mote.com/courses`, predominantly for
-  teachers.
+- **Mote Academy:** Mote's courses, at `app.mote.com/courses` ("Training &
+  Certification" in the dashboard), mainly for teachers. Each course gives a
+  certificate and a badge, and completing a course extends free access. Finishing
+  **3 courses earns Mote Certified Educator**, which unlocks a class trial for the
+  teacher and 40 students. There are also interactive lessons at
+  `/courses/interactive`.
 - **PD sessions:** Mote offers professional-development sessions for institutions,
   bookable through `support@mote.com`.
 - **Video guides:** the "Getting Started with Mote" YouTube playlist:

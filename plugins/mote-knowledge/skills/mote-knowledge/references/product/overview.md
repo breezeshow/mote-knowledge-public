@@ -3,14 +3,14 @@ title: Product Overview
 summary: Mote's six website products at a glance, the one internal product, and how they fit together.
 type: facts
 domain: product
-last-reviewed: 2026-08-05
+last-reviewed: 2026-11-04
 review-interval: 180d
 ---
 
 # Product Overview
 
-**Description.** Mote is the **literacy platform** for reading, writing, speaking,
-and listening: in K-12 procurement terms, an **assistive technology software
+**Description.** Mote is **assistive technology for special education that every
+student can use**: in K-12 procurement terms, an **assistive technology software
 platform** for students with learning disabilities, reading and writing challenges,
 and English Learners, deeply integrated with Chromebooks and Google Workspace. The platform is made up of
 six products, with one more that is real but internal.

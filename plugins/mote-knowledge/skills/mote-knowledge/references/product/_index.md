@@ -1,7 +1,7 @@
 ---
 title: Product index
 summary: Index of Mote's product files. Individual features are in features/.
-last-reviewed: 2026-08-05
+last-reviewed: 2026-11-04
 review-interval: 180d
 ---
 
@@ -13,7 +13,7 @@ review-interval: 180d
 - [mote-ios.md](./mote-ios.md): Mote for iOS, the native iPhone / iPad / Mac app.
 - [platform.md](./platform.md): Mote Platform, admin for schools and districts.
 - [mote-vocab.md](./mote-vocab.md): Mote Vocab, vocabulary and study activities.
-- [translator.md](./translator.md): Mote Translator, live lesson translation.
+- [translator.md](./translator.md): Mote Translator, live lesson and conversation translation, sold as hour packs.
 - [integrations.md](./integrations.md): where Mote works (Chrome, Google, Canvas…).
 - [onboarding-and-learning.md](./onboarding-and-learning.md): getting started + learning resources.
 - [features/](./features/_index.md): one file per feature.

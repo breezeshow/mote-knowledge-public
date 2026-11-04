@@ -3,7 +3,7 @@ title: Integrations
 summary: 'Where Mote works: Chrome, Google Workspace, Canvas, the open web, PDFs, Apple devices, curriculum and e-reader platforms, and SSO.'
 type: facts
 domain: product
-last-reviewed: 2026-08-05
+last-reviewed: 2026-11-04
 review-interval: 180d
 ---
 
@@ -17,7 +17,10 @@ than as a separate destination:
 - **Google Workspace:** Mote is embedded in Google Docs, Slides, Classroom, Forms,
   and Gmail; **Read Aloud works on Google Forms quizzes**; and classes can be
   imported from Google Classroom.
+- **Google Sheets and Drive:** the Mote Sidebar works there too.
 - **Canvas:** voice feedback works inside Canvas SpeedGrader.
+- **Google Slides presenting:** the Slideshow button keeps Read Aloud and the
+  Dictionary available while presenting.
 - **The open web:** the Mote Sidebar tools work on any webpage; the
   [Online Audio Recorder](./features/online-audio-recorder.md) and
   [Mote Pages](./features/mote-pages.md) are browser-based and need no extension.
@@ -27,15 +30,19 @@ than as a separate destination:
 - **Apple devices:** [Mote for iOS](./mote-ios.md) brings Read Aloud, Translation, and
   the rest to iPhone, iPad, and Mac; share any webpage or document to Mote from
   Safari or any app, with iCloud sync across devices.
-- **Curriculum and e-reader platforms:** Read Aloud works in **Sora** and **Epic**,
+- **Curriculum and e-reader platforms:** Read Aloud works in **Sora**, **Epic** and **McGraw Hill eBooks**,
   so students keep the same reading accommodations inside their reading apps. Mote
   supports other popular curriculum publisher and e-reader platforms too, and the
   team works with district partners to extend support to additional platforms where
   it is needed.
-- **Single sign-on and rostering:** users sign in with Google SSO or ClassLink SSO,
-  as well as by email; Mote honors **ClassLink rostering** and can import classes
+- **Single sign-on and rostering:** users sign in with Google SSO, ClassLink SSO or
+  Sign in with Apple, as well as by email; Mote honors **ClassLink rostering** and can import classes
   from Google Classroom to map students to their teachers (see
   [Mote Platform](./platform.md)).
+
+**Not supported, so don't claim them:** Microsoft Edge (Mote doesn't work in Edge
+today), a Safari extension, an Android app, Clever, Microsoft / Entra sign-in,
+SAML and OneRoster.
 
 **Why it exists.** Adoption fails when a tool asks teachers and students to leave
 their normal workflow. Mote works where the class already works (inside Google

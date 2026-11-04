@@ -3,7 +3,7 @@ title: Speech to Text
 summary: Dictate spoken words into written text (clean of pauses and filler) to copy or drop into any text field.
 type: facts
 domain: product/features
-last-reviewed: 2026-08-05
+last-reviewed: 2026-11-04
 review-interval: 180d
 ---
 
@@ -17,6 +17,11 @@ their ideas down by speaking instead of typing.
 the Voice Typing icon (the middle button). Start talking to generate text; you can
 pause, cancel, confirm, or change language while speaking. When you're done, either
 copy the text or drag and drop it into a text field.
+
+**Speak in one language, write in another.** After transcription, **Translate** the
+dictated text into 60+ languages and drag the translated text into the page
+(August 2026). For English Learners this means they can get their ideas down in
+their home language and hand in English.
 
 **Why it exists.** Dictation is only useful if the text comes out clean. Mote's
 Speech to Text recognizes the shape of natural speech (pauses, ums, ahs, false

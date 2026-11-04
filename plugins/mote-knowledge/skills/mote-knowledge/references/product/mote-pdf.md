@@ -3,7 +3,7 @@ title: Mote PDF
 summary: 'Mote''s product for hosting PDFs and making them fully accessible: OCR to accessibilize scanned files, the Chrome Extension tools, PDF mark-up, and saving back to Google Drive.'
 type: facts
 domain: product
-last-reviewed: 2026-08-05
+last-reviewed: 2026-11-04
 review-interval: 180d
 ---
 
@@ -25,11 +25,20 @@ type straight onto the page, and it all **saves into the file**, so the work tra
 with the document when they hand it in.
 
 **How to use it.** Go to **app.mote.com/pdf** and drop a PDF in, or with a PDF open
-and the Mote Chrome Extension open use the **export to Mote** button. In Google Drive, the
+and the Mote Chrome Extension open use the **Annotate with Mote** ("Open in Mote
+PDF") button. In Google Drive, the
 **Mote PDF Workspace app** opens a file in one click (or right-click a PDF and
 choose **Open with Mote**), and from the Mote PDF web app you can browse and open
 your Google Drive files directly. Edits **save back to Google Drive** with the
-changes in them.
+changes in them, or save to the device. Version history keeps earlier versions.
+
+**More tools on the page.**
+
+- **Desktop app:** an "Install app" banner installs Mote PDF, and then any PDF
+  opens with Open With > Mote PDF (October 2026).
+- **Eraser** that can erase part of a line, in 3 sizes.
+- **Resizable text boxes** with 6 font sizes.
+- **SMART Board import:** open `.notebook` lesson files in Mote PDF (October 2026).
 
 **Why it exists.** PDFs are everywhere in education (worksheets, articles,
 textbooks) and they are often the *least* accessible content a student meets:
@@ -37,5 +46,7 @@ fixed, dense, and hard to interact with. Mote PDF turns a hosted PDF into someth
 student can hear, translate, look words up in, and mark up, bringing the whole Mote
 toolkit to a format that usually locks students out.
 
-**Where to find it.** Via the **export to Mote** button when a PDF is open with the
-Chrome Extension, or by right-clicking a PDF in Google Drive.
+**Where to find it.** At `app.mote.com/pdf`, via the **Annotate with Mote** button when
+a PDF is open with the Chrome Extension, by right-clicking a PDF in Google Drive,
+or as the installed desktop app. The Mote PDF Workspace app can be installed for a
+whole domain from the Google Workspace Marketplace.

@@ -1,9 +1,9 @@
 ---
 title: Positioning
-summary: Mote's market position. What Mote is, who it serves, what it competes against, what makes it different. Single source of truth for any positioning statement, sales deck, RFP, or external press piece.
+summary: 'Mote''s market position: assistive technology for special education that every student can use. The master line, the line family, the controls line, and the category statement for RFPs and press.'
 type: narrative
 domain: brand
-last-reviewed: 2026-08-05
+last-reviewed: 2026-11-04
 review-interval: 180d
 ---
 
@@ -11,30 +11,60 @@ review-interval: 180d
 
 ## The positioning statement
 
-Mote runs on two layers. Lead with the **brand line** for marketing and
-top-of-funnel; use the **category statement** for RFPs, procurement, and press. They
-are the same product at different altitudes, not a broader claim and a narrower one.
+**Mote is assistive technology for special education that every student can use.**
+We lead with special education, bridge to English Learners, and treat UDL as the
+foundation underneath. Why: buyers already describe their problem as access. On
+our calls they say "access the curriculum", "IEP students", "504 population" and
+"read aloud accommodations". (Agreed with Will Jackson, 2026-11-03, in the Mote
+Fact Sheet and Messaging Guide.)
 
-### Brand line (marketing, website, top-of-funnel)
+Mote runs on two layers: the **master line** and its family for marketing and the
+website, and the **category statement** for RFPs, procurement and press.
 
-> **Everyone can read, write & be heard.**
+### Master line (website, marketing, top-of-funnel)
+
+> **From the IEP to every classroom.**
 >
-> Reading, writing, speaking, and listening have never mattered more in the
-> classroom.
->
-> Mote is the literacy platform that helps schools to develop these skills
-> whenever and wherever their students are learning.
+> Comprehensive IEP and 504 plan accommodations for wherever your students work,
+> combined with powerful analytics and feature access controls for administrators
+> and educators.
 
-This is the live homepage wording and is canonical as of 2026-08-05. Two things
-to preserve when reusing it: the headline takes an **ampersand** ("read, write &
-be heard"), and the two paragraphs are **separate**, not run together.
+### The line family
 
-The hero uses **can** (capability), not *deserves* (a values claim). Reserve the
-values register for the **mission/about page** and the **SpEd/accessibility solution
-page**, where an opener like *"Everyone deserves to read, write, and be heard"* fits
-the reader and the intent. Keep it off the hero, where a moral-rights line reads as
-advocacy layered onto a product pitch (see [`voice-and-tone.md`](./voice-and-tone.md),
-no preachy accessibility messaging).
+| Element | Line |
+|---|---|
+| Master line | From the IEP to every classroom. |
+| Subheading (under the master line) | Comprehensive IEP and 504 plan accommodations for wherever your students work, combined with powerful analytics and feature access controls for administrators and educators. |
+| Descriptor (short form) | Reading and writing support for every student, Tier 1 through 3. |
+| Special education | The accommodations named in your IEPs, in every student's hands. |
+| The bridge (English Learners with disabilities) | Language or disability? Support both, from day one, on every surface. |
+| English Learners | Every lesson within reach, whatever the student's English proficiency. |
+| UDL (strip and page) | Every student gets multiple ways to access content and to show their learning. |
+| District page title | Mote is the assistive technology platform for data-driven districts. |
+
+- The **descriptor** is the short form for places the subheading won't fit: the
+  Chrome Web Store, meta descriptions, social cards.
+- The **UDL line** is written to teachers, about their students.
+- Supporting lines come later.
+
+### The controls line
+
+Wherever a page says every student gets the same tools, the controls line appears
+on the same page (not necessarily the next sentence). Some district leaders want
+tools kept to students with an IEP or 504.
+
+- Where the page names roles: *"Admins and teachers decide which tools are on for
+  the whole school, a class, or one student."*
+- Where the page speaks to the reader: *"You decide which tools are on for the
+  whole school, a class, or one student."*
+
+### Retired: "Everyone can read, write & be heard"
+
+The previous brand line ("Everyone can read, write & be heard", with "Mote is the
+literacy platform that helps schools to develop these skills...") was canonical
+from 2026-08-05 to 2026-11-03. **It is retired**: "read, write & be heard" comes
+off the logo lockup and every page, and "literacy platform" is no longer the lead.
+Don't use either in new copy.
 
 ### Category statement (RFPs, procurement, press)
 
@@ -49,17 +79,13 @@ innovative team that ships product updates quickly based on what teachers actual
 
 ### How the two layers work
 
-- The **brand line** is universal and asset-based, built on the four literacy skills
-  (reading, writing, speaking, listening). It never says "assistive technology,"
-  "disabilities," or "overcome," which would fight the Tier-1 "for every student"
-  story.
+- The **master line** leads with special education and the IEP, then widens to
+  every classroom: the tools named in IEPs are the same tools every student has,
+  and someone (admins and teachers) decides who uses which.
 - The **category statement** carries the precise procurement language ("assistive
   technology," "learning disabilities," English Learners) that RFPs, AT funding, and SpEd buyers
-  expect. "Assistive technology" stays a core Mote term; it lives here and on the
-  audience/solution pages, not in the hero.
-- The speaking-and-listening emphasis (and "be heard") is about students' literacy
-  skills and Mote's heritage, not a return to positioning Mote as a voice or audio
-  company (see What Mote IS NOT).
+  expect. "Assistive technology" is now the category name everywhere, including
+  the website.
 - The four-domains frame (WIDA) is the thread for the English Learner/multilingual story.
   "Confident, capable communicators" implies all four skills without listing them;
   the explicit "all four language domains" language belongs on the Multilingual /
@@ -78,7 +104,7 @@ innovative team that ships product updates quickly based on what teachers actual
 
 ## What Mote IS
 
-- The **literacy platform** for reading, writing, speaking, and listening, an
+- **Assistive technology for special education that every student can use**: an
   **assistive technology software platform** in K-12 procurement terms.
 - Delivered through a **platform of products**: the Mote Chrome Extension (a Chrome
   extension on any webpage), Mote PDF, and Mote for iOS (native on iPhone, iPad, and Mac).
@@ -98,8 +124,9 @@ innovative team that ships product updates quickly based on what teachers actual
 - **NOT an AI content generator.** Mote uses AI where it helps students
   (text prediction, Mote Writing Review, transcription) but it's not a
   *"write my essay"* tool.
-- **NOT only for special education** (though it excels there). Mote is
-  designed for every K-12 student.
+- **NOT only for students with an IEP or 504.** We lead with special education,
+  but every student gets the same tools, and admins and teachers decide who uses
+  which.
 
 ## Audience-specific framing
 
@@ -129,7 +156,7 @@ Examples:
 
 - Ease of implementation and rollout.
 - How Mote aligns with UDL and MTSS frameworks (universal Tier 1).
-- Cost, including comparison to Read&Write.
+- Cost (from $2,500 a year for a district; never claim cheaper than Read&Write).
 - Data protection and compliance (FERPA, COPPA, GDPR, DPF).
 - Usage analytics and reporting.
 

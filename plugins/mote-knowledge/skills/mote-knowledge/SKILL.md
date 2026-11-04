@@ -11,11 +11,20 @@ the leaf files the task actually needs (most tasks need 3-5, not all 80).
 
 ## What is Mote (essentials)
 
-**Mote is the literacy platform for reading, writing, speaking, and listening**,
-spanning the Mote Chrome Extension, Mote for iOS, Mote PDF, and the web. In K-12
-procurement and RFP terms, it is an **assistive technology software platform** for
-students with learning disabilities, reading and writing challenges, and English Learners,
-deeply integrated with Chromebooks and Google Workspace.
+**Mote is assistive technology for special education that every student can
+use**, spanning the Mote Chrome Extension, Mote for iOS, Mote PDF, and the web. We
+lead with special education, bridge to English Learners, and treat UDL as the
+foundation underneath. In K-12 procurement and RFP terms, it is an **assistive
+technology software platform** for students with learning disabilities, reading
+and writing challenges, and English Learners, deeply integrated with Chromebooks
+and Google Workspace.
+
+**Master line** (website and marketing): *"From the IEP to every classroom."*
+Subheading: *"Comprehensive IEP and 504 plan accommodations for wherever your
+students work, combined with powerful analytics and feature access controls for
+administrators and educators."* The line family, the controls line and the
+category statement are in `references/brand/positioning.md`. "Read, write & be
+heard" and "the literacy platform" are **retired** as leads (2026-11-03).
 
 **Six products carry the platform externally.** These are the products on the
 website, and the naming below is canonical (matching the Webflow Products
@@ -27,16 +36,16 @@ explicitly asked (active and supported, but not lead-with):
   use to make lessons accessible. The core product. The panel it opens is the
   **Mote Sidebar**, a current name subsidiary to the extension, not a second
   product.
-- **Mote PDF**: Mote tools on any PDF, including OCR to accessibilize scanned
-  files.
+- **Mote PDF**: Mote tools on any PDF, including OCR that makes scanned files
+  readable, plus annotation, and a desktop app.
 - **Mote for iOS**: Mote's native app for iPhone, iPad, and Mac.
 - **Mote Vocab**: vocabulary and study activities. Customers see it labelled
   **My Vocab** in their dashboard.
 - **Mote Writing Review**: spelling, homophone and grammar review that explains
   the rule instead of fixing it. A product in its own right because it lives in
   the app; also reachable as a button in the Chrome Extension.
-- **Mote Translator** *(active, don't lead with)*: live spoken-lesson
-  translation.
+- **Mote Translator** *(active, don't lead with)*: live spoken-lesson and
+  conversation translation, with its own site and sold separately as hour packs.
 
 **One internal product** is real and supported but is not part of the website
 product set. Do not list it alongside the six above in outward-facing copy:
@@ -45,6 +54,13 @@ product set. Do not list it alongside the six above in outward-facing copy:
   rostering, Feature Access, Assessment Mode, analytics, Impact Report).
 
 **Scale.** 25,000+ schools, 2 million+ users, 100+ countries.
+
+**Plans and prices** (checked against Chargebee, 2026-11-03; Chargebee is always
+right): Free; **Unlimited $99 a year** for one user; Student or staff groups from
+$80 per seat down to $15; School building $1,500; **District from $2,500 a year**
+("Contact us for a quote"). Ways to try: the educator trial (14 days for new
+signups), the class trial (90 days per student, up to 40 per class), and the school
+or district pilot. Detail in `references/commercial/`.
 
 **Founded** January 2020 by Will Jackson (CEO) and Alex Nunes (CTO). Mote
 launched the Chrome extension that March, the same month US schools moved
@@ -92,8 +108,13 @@ dedicated files.
 - Frame Mote tools as **universal in Tier 1, used more intensively at
   Tier 2 / Tier 3**: same tools across tiers, never accommodations
   *branded for* some students.
-- Use **English Learners** as the primary term (first mention: *"English Learners (English
-  Language Learners)"*; subsequent: *"English Learners"*).
+- Use **English Learners** in body copy. ELL, ESL, ENL, MLL and emergent
+  bilingual are synonyms for one FAQ or meta line only (`brand/language.md`).
+- Use the buyer's words: **IEP, 504 plan, accommodations, access the curriculum,
+  assistive technology, special education** (`brand/language.md`).
+- Wherever copy says every student gets the same tools, include the **controls
+  line**: admins and teachers decide which tools are on for the whole school, a
+  class, or one student.
 - Be specific about compliance claims (e.g. *"TLS v1.2 or higher"*, not
   *"we use encryption"*).
 - Lead with what the teacher or student can DO differently, not what was
@@ -113,6 +134,21 @@ dedicated files.
 - No **exclamation marks in the first sentence** of any copy.
 - Never **proactively recommend or lead with Mote Translator**: an active
   product, describe only when explicitly asked.
+- Never say **"Mote is free"**, "free for teachers" or "free for educators", and
+  never lead with the Free plan. "Try Mote free" is fine for the trial.
+- Never claim **Mote costs less than Read&Write**. Offer the side-by-side: "Send
+  us your Read&Write quote and we'll show you a side-by-side."
+- Never publish the **district per-student rate**; the public line is "District
+  plans start at $2,500 a year."
+- Never claim **Clever, OneRoster, SAML or Microsoft sign-in**, an **Android app**,
+  a **Safari extension**, or that Mote works in **Microsoft Edge**.
+- Never claim Mote works in **lockdown browsers** other than Google Forms Locked
+  Mode; locked-down exams go to Mote for Assessments.
+- Never describe **Mote Loops** or **Totes** as available (retired 2026-07-21),
+  and never quote **$59.40** as the Unlimited price.
+- Never claim a **SOC 2 report** for Mote itself, or **WCAG 2.1 AA** conformance.
+- Never use **"struggling readers"**, "diverse learners", or equity / DEI
+  language in our own copy.
 - Never discuss **discontinued Mote products**.
 - Never position Mote as a **"voice / audio / feedback company"**; the
   Chrome Extension is the product.
@@ -133,9 +169,10 @@ all of them.
 | File | Load when |
 |---|---|
 | `voice-and-tone.md` | Writing or reviewing any Mote copy. Smart-colleague voice + full banned-phrase list. |
-| `positioning.md` | Producing an RFP, sales deck, external press, or any outward-facing positioning copy. |
+| `positioning.md` | Producing an RFP, sales deck, external press, or any outward-facing positioning copy. The master line, line family and controls line. |
 | `messaging-pillars.md` | Building a campaign, GTM piece, or major marketing narrative. The 5 pillars + audience matrix. |
-| `terminology.md` | Any copy that needs terminology verification: capitalization, English Learner conventions, scale figures, Tier framing. |
+| `terminology.md` | Any copy that needs terminology verification: capitalization, product and plan names, English Learner conventions, scale figures, Tier framing. |
+| `language.md` | Writing copy for buyers: the words to use (IEP, 504, accommodations, access), use with care, and avoid. |
 | `visual-identity.md` | Producing any visual output. Color palette, typography, shadows, animations, logo. |
 | `image-style/_index.md` | Producing an image. Routes to per-type specs (feature-icon, concept-illustration, human-photography, product-screenshot, diagram, logo-usage). Decision-history artifacts (moodboard files) live alongside but are not for ongoing use. |
 
@@ -155,8 +192,8 @@ all of them.
 | `chrome-extension.md` | Anything about the core product. |
 | `mote-pdf.md` | Anything about Mote on PDFs. |
 | `mote-ios.md` | Anything about Mote for iOS (iPhone, iPad, Mac). |
-| `translator.md` | Only when explicitly asked about Mote Translator. |
-| `platform.md` | District admin, deployment, analytics (internal product). |
+| `translator.md` | Only when explicitly asked about Mote Translator (access, hour packs, Conversation mode). |
+| `platform.md` | District admin, deployment, class limits, analytics, Mote for Assessments (internal product). |
 | `mote-vocab.md` | Vocabulary and study activities (Mote Vocab / My Vocab). |
 | `writing-review.md` | Mote Writing Review, the product and the button. |
 | `integrations.md` | Where Mote works (Chrome, Google, Canvas). |
@@ -167,7 +204,7 @@ all of them.
 
 | File | Load when |
 |---|---|
-| `audiences.md` | Audience-specific copy (teacher, admin, IT, SpEd). |
+| `audiences.md` | Audience-specific copy (teacher, admin, IT, SpEd, English Learner): who hears what, and objections with answers. |
 | `problems.md` | The K-12 accessibility problem space. |
 | `use-cases.md` | Common scenarios Mote solves. |
 
@@ -194,9 +231,10 @@ all of them.
 
 | File | Load when |
 |---|---|
-| `plans.md` | Pricing-tier questions (free / individual / school / district). |
+| `plans.md` | What each plan includes and leaves out (Free, Unlimited, Student or staff groups, School building, District). |
+| `trials.md` | Trials and pilots: educator trial, class trial, school or district pilot, how classes work. |
 | `licensing.md` | Seats, admin, deployment licensing. |
-| `pricing-facts.md` | Canonical figures for an RFP or quote. |
+| `pricing-facts.md` | Canonical prices in all five currencies, for an RFP, quote or web page. |
 
 ### `references/evidence/`
 

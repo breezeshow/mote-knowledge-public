@@ -3,7 +3,7 @@ title: Universal Design for Learning (UDL)
 summary: What UDL is, how Mote's features map to each UDL guideline, and Mote's measured coverage of the framework.
 type: narrative
 domain: education
-last-reviewed: 2026-08-05
+last-reviewed: 2026-11-04
 review-interval: 180d
 sources:
   - CAST, UDL Guidelines 3.0
@@ -72,7 +72,7 @@ highest-coverage principle.*
 - **Guideline 6 · Strategy Development (2/5).** The
   [Highlighter](../product/features/highlighter.md) and its labels help a learner
   organize information; the
-  [Feedback Workflow](../product/features/feedback-workflow.md) (Loops, Canvas
+  [Feedback Workflow](../product/features/feedback-workflow.md) (Class Dashboard usage data, Canvas
   SpeedGrader) supports monitoring progress.
 
 ## Engagement: multiple means of engagement

@@ -3,7 +3,7 @@ title: Mote for iOS
 summary: 'Mote''s native app for iPhone, iPad, and Mac: a personal reading and writing library with Read Aloud, Scan Text, Translation, Voice Recording, and a built-in Writer.'
 type: facts
 domain: product
-last-reviewed: 2026-09-29
+last-reviewed: 2026-11-04
 review-interval: 180d
 sources:
   - App Store listing ("Mote - Read Aloud & Writer", id1568351949, Mote Technologies, Inc.)
@@ -71,6 +71,28 @@ spirit (Read Aloud, Translation, Speech to Text, and the Writer's predictions an
 read-back), but the iOS app is organized around a personal library rather than the Mote
 Sidebar that travels the web, and it runs on iPhone, iPad, and Mac rather than inside
 Chrome.
+
+## Chromebook and iPad compared
+
+| What students get | Chromebook (Mote Chrome Extension) | iPad (Mote for iOS) |
+|---|---|---|
+| Where it works | On any webpage and inside Google Workspace, through the Mote Sidebar | Inside the app: web pages, PDFs, photos and documents shared into it |
+| Read Aloud with word highlighting | Yes | Yes |
+| Translation | Yes | Yes |
+| Speech to Text | Yes | Yes |
+| Word prediction | Text Prediction, wherever they type | In the app's Writer |
+| Read a page by taking a photo | No (Mote PDF reads scanned files) | Yes (Scan Text) |
+| Voice notes | Yes | Yes |
+| Read Aloud in Google Forms, voice recording in Docs and Classroom | Yes | No |
+| A personal library of everything they read and write | No | Yes (Collections) |
+| How it reaches students | IT installs it for everyone from the Google Admin console | Admins can install the app for students, or a student downloads it from the App Store and signs in |
+
+When asked "does it work on iPads?": Mote for iOS brings Read Aloud, Translation
+and more to iPad. Don't promise the same tools as on Chromebooks; use this table to
+say what differs. Only list iPad tools that appear in this table; which other
+tools come to iPad, and which iOS tools are free, is not decided yet. Licensing
+works the same way: an Unlimited or school plan
+applies in the app too.
 
 **Where to find it.** The App Store, as **Mote - Read Aloud & Writer** (Mote
 Technologies, Inc.). It runs on iPhone, iPad, Mac (Apple silicon), and Apple Vision,
