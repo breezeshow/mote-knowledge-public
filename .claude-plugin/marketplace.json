@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "mote-knowledge",
-      "version": "0.4.0",
+      "version": "0.5.0",
       "source": "./plugins/mote-knowledge",
       "category": "marketing"
     }
