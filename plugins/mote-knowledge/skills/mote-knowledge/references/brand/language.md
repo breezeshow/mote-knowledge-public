@@ -28,7 +28,7 @@ from: the positioning review, our own sales calls and support emails, or both.
 | Multilingual learners | Review | Friendlier teacher-facing copy |
 | Dually identified students, English Learners with disabilities | Review | The bridge page and conference sessions |
 | Newcomers, home language | Calls | English Learner pages and FAQs |
-| Text to speech, speech to text, word prediction | Calls | Beside our feature names, e.g. "Read Aloud (text to speech)" |
+| Text to speech, speech to text, word prediction | Calls | Beside our feature names, e.g. "Read Aloud (text to speech)". On short lines that search engines index (the Chrome Web Store summary, meta descriptions), they may stand alone in lowercase, as long as the listing or page body names the features |
 | Testing accommodation | Calls | Assessment Mode copy |
 | Pilot | Both | Every school and district call to action |
 | UDL, Tier 1, MTSS | Review | Supporting copy on our pages, not the headline |

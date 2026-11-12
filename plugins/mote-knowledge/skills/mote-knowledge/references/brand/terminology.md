@@ -78,6 +78,11 @@ this is a specific thing the product does to a specific kind of file.
 All feature names are **Title Case** wherever they appear (regardless of
 surrounding case).
 
+Title Case is for naming a Mote feature. A lowercase generic term for a
+capability (text to speech, speech to text, word prediction, translation) is not
+a feature name and stays lowercase. When it can stand alone: see
+[`language.md`](./language.md).
+
 | Feature | Correct | Wrong |
 |---|---|---|
 | Read Aloud | Read Aloud | read aloud, Read-Aloud |

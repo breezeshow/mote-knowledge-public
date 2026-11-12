@@ -42,8 +42,9 @@ website, and the **category statement** for RFPs, procurement and press.
 | UDL (strip and page) | Every student gets multiple ways to access content and to show their learning. |
 | District page title | Mote is the assistive technology platform for data-driven districts. |
 
-- The **descriptor** is the short form for places the subheading won't fit: the
-  Chrome Web Store, meta descriptions, social cards.
+- The **descriptor** is the short form for places the subheading won't fit: meta
+  descriptions and social cards. The Chrome Web Store summary leads with the words
+  people search for instead (see [`language.md`](./language.md)).
 - The **UDL line** is written to teachers, about their students.
 - Supporting lines come later.
 
