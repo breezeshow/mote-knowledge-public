@@ -27,6 +27,9 @@ sources:
 | Google for Education Partner | Yes |
 | Public contact email | support@mote.com (directory and event listings, e.g. exhibitor profiles) |
 | LinkedIn | https://www.linkedin.com/company/moteHQ/ |
+| X (Twitter) | https://twitter.com/justmoteHQ |
+| Facebook | https://www.facebook.com/moteHQ/ |
+| Instagram | https://www.instagram.com/justmotehq/ |
 
 Mote Technologies, Inc. is US-based, with a team across the UK and beyond. For
 compliance and certifications, see `trust/compliance.md`.
