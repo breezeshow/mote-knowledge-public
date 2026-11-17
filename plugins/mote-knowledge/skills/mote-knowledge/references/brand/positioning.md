@@ -25,16 +25,15 @@ website, and the **category statement** for RFPs, procurement and press.
 
 > **From the IEP to every classroom.**
 >
-> Comprehensive IEP and 504 plan accommodations for wherever your students work,
-> combined with powerful analytics and feature access controls for administrators
-> and educators.
+> Mote is assistive technology without the stigma. Reading and writing tools that
+> every student can use, on any web page, Google Doc or PDF.
 
 ### The line family
 
 | Element | Line |
 |---|---|
 | Master line | From the IEP to every classroom. |
-| Subheading (under the master line) | Comprehensive IEP and 504 plan accommodations for wherever your students work, combined with powerful analytics and feature access controls for administrators and educators. |
+| Subheading (under the master line) | Mote is assistive technology without the stigma. Reading and writing tools that every student can use, on any web page, Google Doc or PDF. |
 | Descriptor (short form) | Reading and writing support for every student, Tier 1 through 3. |
 | Special education | The accommodations named in your IEPs, in every student's hands. |
 | The bridge (English Learners with disabilities) | Language or disability? Support both, from day one, on every surface. |

@@ -20,9 +20,8 @@ and writing challenges, and English Learners, deeply integrated with Chromebooks
 and Google Workspace.
 
 **Master line** (website and marketing): *"From the IEP to every classroom."*
-Subheading: *"Comprehensive IEP and 504 plan accommodations for wherever your
-students work, combined with powerful analytics and feature access controls for
-administrators and educators."* The line family, the controls line and the
+Subheading: *"Mote is assistive technology without the stigma. Reading and writing
+tools that every student can use, on any web page, Google Doc or PDF."* The line family, the controls line and the
 category statement are in `references/brand/positioning.md`. "Read, write & be
 heard" and "the literacy platform" are **retired** as leads (2026-11-03).
 
