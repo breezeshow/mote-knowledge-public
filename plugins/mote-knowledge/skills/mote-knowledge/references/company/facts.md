@@ -25,6 +25,8 @@ sources:
 | Users | 2 million+ |
 | Countries | 100+ |
 | Google for Education Partner | Yes |
+| Public contact email | support@mote.com (directory and event listings, e.g. exhibitor profiles) |
+| LinkedIn | https://www.linkedin.com/company/moteHQ/ |
 
 Mote Technologies, Inc. is US-based, with a team across the UK and beyond. For
 compliance and certifications, see `trust/compliance.md`.
