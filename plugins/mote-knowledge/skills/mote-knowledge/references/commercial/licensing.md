@@ -3,10 +3,10 @@ title: Licensing
 summary: 'How Mote licensing works: seats, admin, deployment, and SSO.'
 type: narrative
 domain: commercial
-last-reviewed: 2026-11-04
+last-reviewed: 2026-11-23
 review-interval: 180d
 sources:
-  - https://www.mote.com/pricing
+  - https://app.mote.com/pricing/usd
 ---
 
 # Licensing
@@ -66,14 +66,15 @@ Mote does **not** support Clever, Microsoft / Entra, SAML or OneRoster.
 ## Pricing model
 
 - **Unlimited (individual):** flat subscription, monthly or yearly, bought online.
-- **Student or staff groups:** per seat on a sliding scale, bought online for 2
-  to 100 seats.
+- **Unlimited for a group:** per seat on a sliding scale, 2 to 49 people.
+- **Class:** $499 a year for one class of 40 seats (up to 3 teachers), USD
+  only; $549 by purchase order.
 - **School building:** a fixed price per building, by quote.
 - **District or multi-site:** from $2,500 a year, by quote through sales. Never
   advertise the per-student rate.
 
 The canonical price points are in [pricing-facts.md](./pricing-facts.md); the
-live source is [mote.com/pricing](https://www.mote.com/pricing).
+live source is [app.mote.com/pricing/usd](https://app.mote.com/pricing/usd).
 
 ## Related
 

@@ -54,10 +54,11 @@ product set. Do not list it alongside the six above in outward-facing copy:
 
 **Scale.** 25,000+ schools, 2 million+ users, 100+ countries.
 
-**Plans and prices** (checked against Chargebee, 2026-11-03; Chargebee is always
-right): Free; **Unlimited $99 a year** for one user; Student or staff groups from
-$80 per seat down to $15; School building $1,500; **District from $2,500 a year**
-("Contact us for a quote"). Ways to try: the educator trial (14 days for new
+**Plans and prices** (checked against Chargebee, 2026-11-03, Class added
+2026-11-23; Chargebee is always right): Free; **Unlimited $99 a year** for one
+user (also sold per seat for groups of 2 to 49); **Class $499 a year** for one class of 40 seats, up to 3 for teachers (USD
+only; $549 by purchase order); School building $1,500; **District from $2,500 a
+year** ("Contact us for a quote"). Department is retired. Ways to try: the educator trial (14 days for new
 signups), the class trial (90 days per student, up to 40 per class), and the school
 or district pilot. Detail in `references/commercial/`.
 
@@ -230,7 +231,7 @@ all of them.
 
 | File | Load when |
 |---|---|
-| `plans.md` | What each plan includes and leaves out (Free, Unlimited, Student or staff groups, School building, District). |
+| `plans.md` | What each plan includes and leaves out (Free, Unlimited, Unlimited for a group, Class, School building, District). |
 | `trials.md` | Trials and pilots: educator trial, class trial, school or district pilot, how classes work. |
 | `licensing.md` | Seats, admin, deployment licensing. |
 | `pricing-facts.md` | Canonical prices in all five currencies, for an RFP, quote or web page. |

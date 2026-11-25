@@ -1,21 +1,23 @@
 ---
 title: Pricing facts
-summary: 'Canonical Mote prices in all five currencies: Free, Unlimited ($99/yr), Multi-seat ($80 down to $15/seat), School building ($1,500), District (from $2,500). Chargebee is always right.'
+summary: 'Canonical Mote prices in all five currencies: Free, Unlimited ($99/yr), Class ($499/yr, USD only), School building ($1,500), District (custom quote, from $2,500). Chargebee is always right.'
 type: facts
 domain: commercial
-last-reviewed: 2026-11-04
+last-reviewed: 2026-11-23
 review-interval: 90d
 sources:
-  - https://www.mote.com/pricing
-  - Chargebee item prices unlimited-*-20220803, school-building-*-2025, mote-small-school-district-*-Yearly, school-*-20260814 (read 2026-11-03)
+  - https://app.mote.com/pricing/usd
+  - Chargebee item prices unlimited-*-20220803, school-building-*-2025, mote-small-school-district-*-Yearly, school-*-20260814 (read 2026-11-03); class-school-usd-2026 (item mote-class, created 2026-11-12)
+  - Class SKU launch audit, story 27100 (2026-11-20)
 ---
 
 # Pricing facts
 
 > **Chargebee is always right.** Where a page disagrees with Chargebee, the page
 > is fixed. The live pricing page is
-> **[mote.com/pricing](https://www.mote.com/pricing)**. Prices checked
-> 3 November 2026.
+> **[app.mote.com/pricing/usd](https://app.mote.com/pricing/usd)** (one row of
+> four cards: Unlimited, Class, School building, District or multi-site). Prices
+> checked 3 November 2026; Class added 23 November 2026.
 
 ## Prices per year
 
@@ -24,13 +26,30 @@ sources:
 | Free | $0 | £0 | €0 | CA$0 | A$0 | Sign up; limited tools |
 | Unlimited, yearly | $99 | £80 | €80 | CA$125 | A$125 | Online, one user: a teacher or a student |
 | Unlimited, monthly | $11.99 | £9.49 | €9.49 | CA$14.99 | A$14.99 | Online, one user (per month) |
-| Multi-seat, 2 to 9 seats | $80 | £64 | €64 | CA$100 | A$100 | Per seat; online up to 100 seats; down to $15 at 200+ |
+| Class | $499 | n/a | n/a | n/a | n/a | One class: 40 seats, up to 3 of them for teachers. $549 by purchase order. USD only |
 | School building | $1,500 | £1,400 | €1,500 | CA$2,100 | A$2,000 | By quote. Up to 1,000 staff and students in one building |
-| District | From $2,500 | From £2,000 | From €2,000 | From CA$3,000 | From A$3,000 | Quote only, through sales |
+| District | From $2,500 | From £2,000 | From €2,000 | From CA$3,000 | From A$3,000 | Custom quote, priced per seat, through sales |
 
-These are the only five currencies Mote sells in.
+These are the only five currencies Mote sells in. Class is sold in USD only.
 
-## Multi-seat ("Student or staff groups")
+## Class
+
+$499 a year (USD), launched November 2026. One class of **40 seats, up to 3 of
+them for teachers**; the card subtitle is "40 seats, up to 3 for teachers". Every
+Unlimited tool for everyone in the class, plus the class tools: students in a
+class, joining a class, student analytics, Teacher Feature Controls and
+Assessment Mode. It does not include the school admin layer (My School
+dashboard, Feature Access, CSV or email user adds, Impact Report, ClassLink,
+dedicated support). The card opens with a 90-day class trial
+("Start class trial").
+
+Paid by purchase order it is **$549** (orders under $500 by PO carry a $50 fee).
+
+## Unlimited for a group (per seat)
+
+The **"Unlimited for a group"** card sits under the plan row ("Buying for a
+group?"): one Unlimited seat for each person, from 2 to 49 people, with a seat
+stepper. Past 49 it offers the School building quote.
 
 Per seat per year, volume-priced: every seat is charged at the rate of the band
 the total falls in.
@@ -45,10 +64,8 @@ the total falls in.
 | 150 to 199 | $20 | £16 | €16 | $25 |
 | 200+ | $15 | £12 | €12 | $18.75 |
 
-Minimum 2 seats. Online checkout goes up to 100 seats; above that the buyer is
-sent to sales. On the pricing page the tab is **Multi-seat** and the card is
-**Student or staff groups** (subtitle "2+ licenses"). There is no product called
-"Mote Student or Staff Groups".
+Minimum 2 seats. The pricing page card goes up to 49 people. There is no product
+called "Mote Student or Staff Groups".
 
 ## School building
 

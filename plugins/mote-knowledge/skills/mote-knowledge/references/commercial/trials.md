@@ -3,7 +3,7 @@ title: Trials and pilots
 summary: 'The three ways to try Mote: the educator trial (14 days for new signups), the class trial (90 days per student, up to 40 per class), and the school or district pilot. What happens when each ends.'
 type: facts
 domain: commercial
-last-reviewed: 2026-11-04
+last-reviewed: 2026-11-23
 review-interval: 90d
 ---
 
@@ -44,8 +44,8 @@ block show all three.
 
 > "Unlimited covers one person: you. Your students get 90 days of the full tools
 > through your class. After that, they keep the Free tools. To keep every tool
-> for your students, buy seats for them on a multi-seat plan, or ask your school
-> or district about a plan."
+> for your class, buy Class ($499 a year for 40 seats), or ask your school or
+> district about a plan."
 
 ## Other ways a trial is extended
 

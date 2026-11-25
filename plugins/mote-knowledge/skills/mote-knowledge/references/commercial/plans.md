@@ -1,12 +1,12 @@
 ---
 title: Plans
-summary: 'Mote''s plans (Free, Unlimited, Student or staff groups, School building, District or multi-site): what each includes, what it leaves out, and how it''s bought.'
+summary: 'Mote''s plans (Free, Unlimited, Unlimited for a group, Class, School building, District or multi-site): what each includes, what it leaves out, and how it''s bought.'
 type: narrative
 domain: commercial
-last-reviewed: 2026-11-04
+last-reviewed: 2026-11-23
 review-interval: 90d
 sources:
-  - https://www.mote.com/pricing
+  - https://app.mote.com/pricing/usd
 ---
 
 # Plans
@@ -48,12 +48,32 @@ enablement, analytics, ClassLink sign-in).
 Customers often call Unlimited "premium". Use that word once in an FAQ
 ("Unlimited, sometimes called premium"), never as a plan name.
 
-## Student or staff groups (the Multi-seat tab)
+## Class
 
-Unlimited for a group of 2 or more people, priced per seat on a sliding scale.
-Self-serve online for 2 to 100 seats ("Buy N seats"); larger groups go through
-sales. A volume plan, not a schools-only plan: a staff group or a student cohort
-of any size above one qualifies.
+For **one class**: 40 seats, up to 3 of them for teachers. $499 a year (USD
+only), or $549 by purchase order. Starts with a 90-day class trial ("Start class
+trial").
+
+**Includes:** everything in Unlimited for everyone in the class, plus the class
+tools: students in a class, joining a class, student analytics, Teacher Feature
+Controls and Assessment Mode.
+
+**Leaves out:** the school admin layer (My School dashboard, Feature Access,
+adding users by CSV or email, domain enablement, Impact Report, ClassLink,
+dedicated support). For more than one class or more than 3 teachers, it's
+School building.
+
+Use it when a teacher, team or department wants to keep their class on the full
+tools after the class trial. It replaces the retired Department plan.
+
+## Unlimited for a group
+
+Unlimited for a group of 2 to 49 people (the "Unlimited for a group" card under
+the plan row), one seat each, priced per seat on a sliding scale. Past 49, it's
+School building.
+
+ A volume plan, not a schools-only plan: a staff
+group or a student cohort of any size above one qualifies.
 
 ## School building
 

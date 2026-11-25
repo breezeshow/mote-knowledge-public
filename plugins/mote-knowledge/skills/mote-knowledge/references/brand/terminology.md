@@ -38,7 +38,8 @@ sources:
 |---|---|
 | **Free** | Never lead with it; never call Mote "free" |
 | **Unlimited** | One user. Customers call it "premium"; use that once in an FAQ, never as a name |
-| **Student or staff groups** | The card under the **Multi-seat** tab. Not "Mote Student or Staff Groups" |
+| **Unlimited for a group** | The card under the plan row, 2 to 49 people. Formerly "Student or staff groups" under a Multi-seat tab |
+| **Class** | One class, 40 seats, up to 3 for teachers. Replaces the retired Department plan |
 | **School building** | One building, up to 1,000 staff and students |
 | **District or multi-site** | Not "Mote District or Multi-site", not "Custom" |
 
