@@ -57,9 +57,10 @@ certifications; AWS's SOC 2 report is available on request.
 
 ## Data Processing Agreement
 
-A GDPR-compliant DPA template is available, referenced on mote.com/privacy for
-UK schools and downloadable from there. For other jurisdictions Mote can work
-with the institution to execute an appropriate DPA. Contact `support@mote.com`.
+Mote signs data privacy agreements (DPAs) with US districts, and uses the
+Student Data Privacy Consortium (SDPC) agreements for both schools and
+districts. For UK and EU schools, a GDPR-compliant DPA template is available on
+mote.com/privacy. Contact `support@mote.com`.
 
 ## Jurisdiction notes
 
