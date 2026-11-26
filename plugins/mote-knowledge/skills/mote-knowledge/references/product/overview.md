@@ -38,12 +38,12 @@ six products, with one more that is real but internal.
 **One internal product** (supported, but not part of the website product set; do
 not list it alongside the six above in outward-facing copy):
 
-- **[Mote Platform](./platform.md):** the admin layer for schools and districts:
+- **[Mote Admin Tools](./platform.md):** the admin layer for schools and districts:
   accounts, classes, logins, feature controls, and usage data.
 
 **How it fits together.** The Chrome Extension is the core of the everyday student
 experience, delivering the Mote Sidebar with its Reading, Writing, and Creating modes; Mote PDF extends it to PDFs, and Mote for iOS brings the reading and writing tools to
-iPhone, iPad, and Mac. Mote Platform sits underneath,
+iPhone, iPad, and Mac. Mote Admin Tools sits underneath,
 letting a school deploy and manage all of it. Mote Vocab turns reading into study
 practice, and Mote Translator handles the specific case of live, spoken-lesson
 translation.

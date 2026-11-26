@@ -11,7 +11,7 @@ review-interval: 180d
 - [chrome-extension.md](./chrome-extension.md): the Mote Chrome Extension (Chrome extension).
 - [mote-pdf.md](./mote-pdf.md): Mote PDF, accessible PDF hosting.
 - [mote-ios.md](./mote-ios.md): Mote for iOS, the native iPhone / iPad / Mac app.
-- [platform.md](./platform.md): Mote Platform, admin for schools and districts.
+- [platform.md](./platform.md): Mote Admin Tools, admin for schools and districts.
 - [mote-vocab.md](./mote-vocab.md): Mote Vocab, vocabulary and study activities.
 - [translator.md](./translator.md): Mote Translator, live lesson and conversation translation, sold as hour packs.
 - [integrations.md](./integrations.md): where Mote works (Chrome, Google, Canvas…).

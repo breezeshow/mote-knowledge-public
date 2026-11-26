@@ -49,7 +49,7 @@ explicitly asked (active and supported, but not lead-with):
 **One internal product** is real and supported but is not part of the website
 product set. Do not list it alongside the six above in outward-facing copy:
 
-- **Mote Platform**: the admin layer for schools and districts (accounts,
+- **Mote Admin Tools** *(formerly Mote Platform)*: the admin layer for schools and districts (accounts,
   rostering, Feature Access, Assessment Mode, analytics, Impact Report).
 
 **Scale.** 25,000+ schools, 2 million+ users, 100+ countries.

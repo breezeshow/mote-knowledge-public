@@ -26,6 +26,7 @@ sources:
 | Original Mote experience | *(retired as a product name)* Its voice messaging and audio are now part of the **Mote Chrome Extension** | Mote Classic, mote classic, Classic |
 | Live speech product (active, but don't lead with) | **Mote Translator** | MoteTranslator, moteTranslator, Mote-Translator |
 | Vocabulary & study product | **Mote Vocab** | Mote Mastery (old name), moteMastery, Mastery, Vocabulary |
+| Admin product for schools and districts | **Mote Admin Tools** | Mote Platform (old name, renamed 26 Nov 2026), motePlatform, Platform |
 | Vocabulary product (what the user sees) | **My Vocab** *(the dashboard page label; the product is Mote Vocab)* | myVocab, my vocab |
 | Courses and certification | **Mote Academy** *(courses at app.mote.com/courses, "Training & Certification" in the dashboard)*; **Mote Certified Educator** *(after 3 courses)* | Mote courses (as a name), Mote University |
 | Locked-down exam app | **Mote for Assessments** *(a separate kiosk app)* | Mote kiosk, Mote Lockdown |

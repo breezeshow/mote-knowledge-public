@@ -73,5 +73,5 @@ a set time. The tools support learning; they are not a permanent crutch.
 
 **Rolling out and seeing the impact.** An administrator assigns licenses by domain,
 CSV, or email, and sets student and teacher roles. Through
-[Mote Platform](../product/platform.md) they see which features are used and where,
+[Mote Admin Tools](../product/platform.md) they see which features are used and where,
 and pull an impact report: a full PDF overview of usage across the institution.

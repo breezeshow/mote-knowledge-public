@@ -38,7 +38,7 @@ than as a separate destination:
 - **Single sign-on and rostering:** users sign in with Google SSO, ClassLink SSO or
   Sign in with Apple, as well as by email; Mote honors **ClassLink rostering** and can import classes
   from Google Classroom to map students to their teachers (see
-  [Mote Platform](./platform.md)).
+  [Mote Admin Tools](./platform.md)).
 
 **Not supported, so don't claim them:** Microsoft Edge (Mote doesn't work in Edge
 today), a Safari extension, an Android app, Clever, Microsoft / Entra sign-in,
@@ -53,5 +53,5 @@ Chrome Extension), the **Google Workspace Marketplace** (the Open in Mote PDF ap
 and the **App Store** (Mote for iOS).
 
 **Where to find it.** Login and SSO setup is covered in
-[Mote Platform](./platform.md); individual integrations are detailed in their
+[Mote Admin Tools](./platform.md); individual integrations are detailed in their
 feature files.

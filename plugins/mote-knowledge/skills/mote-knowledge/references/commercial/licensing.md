@@ -37,7 +37,7 @@ extension, Microsoft Edge (Mote doesn't work in Edge today).
   admin settings.
 - Each user is a **student** or a **teacher**; admins can change roles.
 - Teachers see their own classes' usage data; admins see the institution-wide
-  view (see [Mote Platform](../product/platform.md) and the
+  view (see [Mote Admin Tools](../product/platform.md) and the
   [Impact Report](../product/platform.md)).
 - District pricing is **seat-based**: seats count staff and students, and admins
   see "{used} of {total} seats in use". **Classes** are unlimited on School and
@@ -80,4 +80,4 @@ live source is [app.mote.com/pricing/usd](https://app.mote.com/pricing/usd).
 
 - [plans.md](./plans.md): what each plan includes.
 - [pricing-facts.md](./pricing-facts.md): the canonical price figures.
-- [Mote Platform](../product/platform.md): the admin layer that runs licensing.
+- [Mote Admin Tools](../product/platform.md): the admin layer that runs licensing.

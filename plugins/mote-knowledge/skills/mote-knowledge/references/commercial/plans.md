@@ -96,7 +96,7 @@ advertise a per-student or per-seat district rate.
 - **Analytics:** the My School dashboard, usage data and the Impact Report.
 - **Support:** dedicated support and PD options.
 
-See [Mote Platform](../product/platform.md) for the detail.
+See [Mote Admin Tools](../product/platform.md) for the detail.
 
 Mote does **not** offer OneRoster, Clever, SAML or Microsoft sign-in.
 

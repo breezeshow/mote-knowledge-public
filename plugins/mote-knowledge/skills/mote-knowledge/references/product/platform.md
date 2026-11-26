@@ -1,15 +1,17 @@
 ---
-title: Mote Platform
+title: Mote Admin Tools
 summary: 'Mote''s admin layer for schools and districts: accounts, classes, logins, feature controls, and usage reporting.'
 type: facts
 domain: product
-last-reviewed: 2026-11-04
+last-reviewed: 2026-11-26
 review-interval: 180d
 ---
 
-# Mote Platform
+# Mote Admin Tools
 
-**Description.** Mote Platform is the administrative layer that lets schools,
+*Formerly **Mote Platform** (renamed 26 Nov 2026). Use Mote Admin Tools in all new copy. The product page URL is still `/products/mote-platform`.*
+
+**Description.** Mote Admin Tools is the administrative layer that lets schools,
 districts, and colleges run Mote at scale: setting up accounts, managing classes,
 controlling which features are available, and reporting on usage. It covers:
 

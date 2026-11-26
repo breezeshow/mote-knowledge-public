@@ -108,11 +108,11 @@ Teacher and admin tools that complement student-facing support at every level:
 
 - [Feedback Workflow](../product/features/feedback-workflow.md)
 - [Embedded Voice Recorder](../product/features/embedded-voice-recorder.md)
-- **Teacher Feature Controls** ([Mote Platform](../product/platform.md)): tune
+- **Teacher Feature Controls** ([Mote Admin Tools](../product/platform.md)): tune
   which tools a class or an individual student can use
-- **Assessment Mode** ([Mote Platform](../product/platform.md)): restrict
+- **Assessment Mode** ([Mote Admin Tools](../product/platform.md)): restrict
   features for the duration of an assessment
-- **Impact Report** ([Mote Platform](../product/platform.md)): institution-wide
+- **Impact Report** ([Mote Admin Tools](../product/platform.md)): institution-wide
   usage data that complements academic progress monitoring
 - **Multilingual support**: built into every tier rather than a separate
   program

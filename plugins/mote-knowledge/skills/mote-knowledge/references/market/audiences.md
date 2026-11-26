@@ -51,7 +51,7 @@ have to differentiate every task by hand, or wait on scarce specialist staff.
 Districts are Mote's buyer. A district leader weighs equitable access
 at scale, alignment to [UDL](../education/udl.md) and [MTSS](../education/mtss.md),
 privacy and compliance (FERPA, COPPA, GDPR), usage reporting, simple deployment, and
-an affordable per-seat cost. [Mote Platform](../product/platform.md) is built
+an affordable per-seat cost. [Mote Admin Tools](../product/platform.md) is built
 for exactly that.
 
 ## Who hears what

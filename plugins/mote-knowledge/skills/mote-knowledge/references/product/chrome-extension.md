@@ -54,7 +54,7 @@ example Read Aloud with the Screen Mask and Dictionary. The keyboard shortcut
 **Alt+Shift+M** opens the Mote Sidebar.
 
 Some tools also belong to other products and are documented there: **My Content**
-opens the content library, which lives with [Mote Platform](./platform.md).
+opens the content library, which lives with [Mote Admin Tools](./platform.md).
 
 ## What teachers get: accessible material in a few clicks
 
@@ -70,7 +70,7 @@ material accessible without rebuilding it:
 - **Give voice feedback in Google Docs**, and in Canvas SpeedGrader.
 - **Control class and student feature access** through Teacher Feature Controls, so
   a class or an individual student sees the tools the teacher intends. See
-  [Mote Platform](./platform.md).
+  [Mote Admin Tools](./platform.md).
 
 ## Where it works
 
