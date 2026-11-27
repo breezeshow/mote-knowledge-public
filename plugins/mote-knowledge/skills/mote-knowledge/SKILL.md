@@ -25,7 +25,7 @@ tools that every student can use, on any web page, Google Doc or PDF."* The line
 category statement are in `references/brand/positioning.md`. "Read, write & be
 heard" and "the literacy platform" are **retired** as leads (2026-11-03).
 
-**Six products carry the platform externally.** These are the products on the
+**Seven products carry the platform externally.** These are the products on the
 website, and the naming below is canonical (matching the Webflow Products
 collection). Lead with the Chrome Extension; mention Mote Translator only when
 explicitly asked (active and supported, but not lead-with):
@@ -45,12 +45,11 @@ explicitly asked (active and supported, but not lead-with):
   the app; also reachable as a button in the Chrome Extension.
 - **Mote Translator** *(active, don't lead with)*: live spoken-lesson and
   conversation translation, with its own site and sold separately as hour packs.
-
-**One internal product** is real and supported but is not part of the website
-product set. Do not list it alongside the six above in outward-facing copy:
-
-- **Mote Admin Tools** *(formerly Mote Platform)*: the admin layer for schools and districts (accounts,
-  rostering, Feature Access, Assessment Mode, analytics, Impact Report).
+- **Mote Admin Tools** *(formerly Mote Platform)*: the admin layer for schools
+  and districts (accounts, rostering, Feature Access, Assessment Mode, analytics,
+  Impact Report). Part of the website product set, with its own product page
+  (www.mote.com/products/mote-platform). Lead with it for admin and district
+  audiences.
 
 **Scale.** 25,000+ schools, 2 million+ users, 100+ countries.
 

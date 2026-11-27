@@ -1,6 +1,6 @@
 ---
 title: Product Overview
-summary: Mote's six website products at a glance, the one internal product, and how they fit together.
+summary: Mote's seven website products at a glance, and how they fit together.
 type: facts
 domain: product
 last-reviewed: 2026-11-04
@@ -13,7 +13,7 @@ review-interval: 180d
 student can use**: in K-12 procurement terms, an **assistive technology software
 platform** for students with learning disabilities, reading and writing challenges,
 and English Learners, deeply integrated with Chromebooks and Google Workspace. The platform is made up of
-six products, with one more that is real but internal.
+seven products.
 
 **On the website** (canonical naming, matching the Webflow Products collection):
 
@@ -34,12 +34,9 @@ six products, with one more that is real but internal.
   in the app; also reachable as a button in the Chrome Extension.
 - **[Mote Translator](./translator.md):** a separate product for live translation
   of spoken lessons.
-
-**One internal product** (supported, but not part of the website product set; do
-not list it alongside the six above in outward-facing copy):
-
-- **[Mote Admin Tools](./platform.md):** the admin layer for schools and districts:
-  accounts, classes, logins, feature controls, and usage data.
+- **[Mote Admin Tools](./platform.md)** *(formerly Mote Platform)*: the admin layer
+  for schools and districts: accounts, classes, logins, feature controls, and usage
+  data.
 
 **How it fits together.** The Chrome Extension is the core of the everyday student
 experience, delivering the Mote Sidebar with its Reading, Writing, and Creating modes; Mote PDF extends it to PDFs, and Mote for iOS brings the reading and writing tools to

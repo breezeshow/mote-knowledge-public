@@ -9,7 +9,7 @@ review-interval: 180d
 
 # Mote Admin Tools
 
-*Formerly **Mote Platform** (renamed 26 Nov 2026). Use Mote Admin Tools in all new copy. The product page URL is still `/products/mote-platform`.*
+*Formerly **Mote Platform** (renamed 26 Nov 2026). Use Mote Admin Tools in all new copy. It is one of the seven website products. The product page URL is still `/products/mote-platform`.*
 
 **Description.** Mote Admin Tools is the administrative layer that lets schools,
 districts, and colleges run Mote at scale: setting up accounts, managing classes,
